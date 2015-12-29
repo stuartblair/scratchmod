@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "Blakes7Mod",
+  "name": "Blakes 7 Mod",
+  "description": "Blakes 7 Mod.",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
+  "url": "http://github.com/lachlanblair",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Lachlan Blair"],
+  "credits": "To my Mum. Who puts up with altogether too much hassle",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
